@@ -1,0 +1,135 @@
+body{
+margin:0;
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+color: #40514E;
+}
+
+h1{
+  color: #66BFBF;
+  font-family: 'Tangerine', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0;
+}
+
+h2{
+  color: #66BFBF;
+  font-weight: normal;
+  font-size: 2.2rem;
+}
+
+h3{
+  color: #11999E;
+  font-size: 1.3rem;
+}
+
+a{
+  color: #11999E;
+}
+
+hr{
+  border-style: dotted;
+  width: 50px;
+  border-bottom: 0;
+  border-width: 7px;
+  border-color: grey;
+  margin: 5% auto 5% auto;
+}
+
+p{
+  color: #40514E;
+  line-height: 2;
+}
+
+.programmer{
+  font-family: 'Merriweather', serif;
+
+  margin-top: 15px;
+}
+
+.top{
+  background-color: #E4F5F9;
+  margin-bottom: 4%;
+  padding: 10%;
+  padding-bottom: 0;
+  position: relative;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.cloud1{
+  position: relative;
+  left: 25%;
+}
+
+.cloud2{
+  position: absolute;
+  top: 40%;
+  left: 25%;
+}
+
+.profile-picture{
+  width: 10%;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px;
+  text-align: left;
+}
+
+.code-image{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+
+.chilli-image{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.heading{
+  color: #66BFBF;
+}
+
+.skill-row{
+  margin-top: 40px;
+}
+
+.contact-p{
+  width: 50%;
+  margin:3% auto 4%;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 3% 0 0.8%;
+  margin-top: 5%;
+}
+
+.footer-link{
+  color: #11999E;
+  margin: auto 2%;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+.footer-link:hover{
+  color: #EAF6F6;
+}
+
+.footer-p{
+  color: #EAF6F6;
+  font-size: 0.7rem;
+  padding: 20px 0;
+}
